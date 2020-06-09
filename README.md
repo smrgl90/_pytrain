@@ -30,3 +30,6 @@
 
 * [Как работать с тестами и основы pytest](https://pyneng.readthedocs.io/ru/latest/book/additional_info/pytest.html)
 
+
+
+qu
